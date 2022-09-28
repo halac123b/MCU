@@ -1,2 +1,2 @@
-# MCU_Lab1
-Vi xử lí - Vi điều khiển Lab1
+# MCU
+Vi xử lí - Vi điều khiển
